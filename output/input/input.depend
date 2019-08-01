@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453766730 source:c:\users\austinm\desktop\output\input\main.cpp
+	<iostream>
+	<fstream>
+
